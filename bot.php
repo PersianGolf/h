@@ -8,7 +8,7 @@ dev : mohammadrezajafari [@mohammadrezajiji]
 */
 ob_start();
 error_reporting(0);
-define('API_KEY','837707059:AAF5kdTKzJTAuvAsNQ738nzuzOX-znV-G3E');
+define('API_KEY','835925186:AAHNXFTPDo_owi9bZ87g2f8uiKuqo_HRtTI');
 //-----------------------------------------------------------------------------------------
 //فانکشن jijibot :
 function jijibot($method,$data){
